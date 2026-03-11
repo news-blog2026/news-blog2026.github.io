@@ -1,69 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost/index.html</loc>
+    <loc>https://interiormatters.github.io/business.html</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://interiormatters.github.io/health.html</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://interiormatters.github.io/index.html</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://localhost/tech.html</loc>
+    <loc>https://interiormatters.github.io/legal.html</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost/health.html</loc>
+    <loc>https://interiormatters.github.io/policy.html</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost/policy.html</loc>
+    <loc>https://interiormatters.github.io/tech.html</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>http://localhost/legal.html</loc>
-    <lastmod>2026-03-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost/business.html</loc>
-    <lastmod>2026-03-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost/news1.html</loc>
-    <lastmod>2026-03-10</lastmod>
+  <!-- <url>
+    <loc>https://interiormatters.github.io/news/BBM-Style-Relay-Messaging.html</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost/news2.html</loc>
-    <lastmod>2026-03-10</lastmod>
+    <loc>https://interiormatters.github.io/news/Biodegradable-Fungus-Based-Plastic.html</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost/news3.html</loc>
-    <lastmod>2026-03-10</lastmod>
+    <loc>https://interiormatters.github.io/news/Continuous-Identity-Verification-Model.html</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost/news4.html</loc>
-    <lastmod>2026-03-10</lastmod>
+    <loc>https://interiormatters.github.io/news/Investment-Outcome-profit.html</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost/news5.html</loc>
-    <lastmod>2026-03-10</lastmod>
+    <loc>https://interiormatters.github.io/news/MoneyLedger-Budget-AI-Pilot.html</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://interiormatters.github.io/news/algorithmic_layoff_tax.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://interiormatters.github.io/news/biometric-passports-road-safety.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url> -->
+  <!-- <url>
+    <loc>https://interiormatters.github.io/news/corporate_sustainability_disclosure_rules.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url> -->
 </urlset>
